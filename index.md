@@ -3,7 +3,7 @@ ACM Splash Pages was a project started in Spring 2020 by Purple Team as a part o
 
 
 
-I boilerplated the back-end, built routes, connected the backend to a MongoDB database, documenting the entire back-end structure, and wrote all of the unit tests using Jest as well as the README. My team members
+I boilerplated the back-end, built routes, connected the backend to a MongoDB database, documented the entire API, wrote all of the unit tests using Jest, and also wrote the README for getting, running, testing, and deploying the web application.
 
 You can find the README for this project at our [Github repository](https://github.com/brilam8/purple-team-backend).
 If you are looking for the documentation, you can find it at our [Github wiki page](https://github.com/brilam8/purple-team-backend/wiki)
