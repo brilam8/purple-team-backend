@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: ACM Splash Pages
+description: A splash page generator for events hosted by ACM @ UCSD.
+baseurl: /purple-team-backend
