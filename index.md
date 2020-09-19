@@ -23,7 +23,7 @@ One could then use this splash page as a link to the event, so that all of the m
 
 Every event that would be generated through the form was stored in a MongoDB database that we connected the back-end to. This was paramount because we wanted a single page where we can see every recent and future event that we had generated splash pages for. Clicking on the "View Splash Pages" button leads to a page that looks like this: 
 <p align="center" >
-    <img style="padding:5px" width="599" height="364" src="assets/viewSplashes.png" alt="viewSplash">
+    <img style="padding:5px" width="599.5" height="365.5" src="assets/viewSplashes.png" alt="viewSplash">
 </p>
 
 Administrators to the page would have the extra dropdown menu to edit or delete and event. Everything was set up in the back-end, in which you can find the documentation for at the [wiki](https://github.com/brilam8/purple-team-backend/wiki). There is also a search bar in which you can search for specific events in terms of their tags, time, location, or name - this was made possible through querying MongoDB for specific events that had matching elements.
